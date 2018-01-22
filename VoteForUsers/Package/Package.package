@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7e1cf7e2-d5e7-46db-950d-b1f035accd78" solutionId="7e1cf7e2-d5e7-46db-950d-b1f035accd78" resetWebServer="false" sharePointProductVersion="16.0" name="VoteForUsers" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="6a1364e1-c4b5-4d00-8df6-86d9aa85c044" />
+  </projectItems>
+</package>

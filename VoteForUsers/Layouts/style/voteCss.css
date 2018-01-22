@@ -1,0 +1,40 @@
+﻿body
+{
+}
+
+.notActive{
+    border: none;
+}
+
+.activeUser {
+    border: 1px solid red;
+  
+}
+
+#ctl00_PlaceHolderMain_userTable p{
+        text-align: center;
+}
+
+#ctl00_PlaceHolderMain_userTable td{
+    width:150px;
+}
+div#allInfo {
+    width: 775px;
+}
+div#blockComment {
+    text-align: center;
+}
+
+#ctl00_PlaceHolderMain_userTable td div{
+    text-align:center;
+}
+.myProgress {
+    width: 80%;
+    background-color: #e8e8e8;
+    height: 12px;
+    position: absolute;
+    bottom: 0;
+}
+table td div{
+    cursor:pointer;
+}
